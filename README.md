@@ -68,9 +68,3 @@ The project achieved significant classification accuracy on the CIFAR-10 dataset
 
 ## **Contributors**
 - **d-samrat** (Developer)
-
-Feel free to contribute or open issues for suggestions!
-
----
-
-Let me know if you'd like this in a downloadable format or need any edits.
